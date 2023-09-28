@@ -20,7 +20,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # Deploy
 
-[Acesse a demo online](https://guihenriquelb.github.io/simple-parking-system)
+[Acesse a demo online](https://guihenriquelb.github.io/password-generator)
 
 ```
 # Autor
